@@ -16,3 +16,57 @@
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+html {
+  color: transparent;
+  max-width: 700px;
+  margin: auto;
+  outline: solid black 1px;
+}
+
+header {
+  background-color:red;
+  height: 25px;
+  border: 1px;
+  outline: solid black .5px;
+}
+
+.classwork {
+  background-color:black;
+}
+
+#fat {
+  background-color: orange;
+  height: 100px;
+  outline: solid black .5px;
+}
+
+#skinny {
+  background-color:yellow;
+  outline: solid black .5px;
+}
+
+#triplethreat, #skinny {
+  height: 80px;
+  outline: solid black .5px;
+
+}
+
+.split {
+  display: flex;  
+  justify-content: space-between;
+}
+
+#third {
+  background-color:green;
+  width:33.3%;
+}
+
+#twothird {
+  background-color:blue;
+  width:66.6%;
+}
+
+footer {
+  background-color:purple;
+}

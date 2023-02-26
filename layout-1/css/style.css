@@ -7,6 +7,22 @@
   box-sizing: border-box;
 }
 
+nav, header, section, main{
+  border: 1px solid black;
+}
+
+nav{
+  height: 50px;
+}
+
+main
+
+.flex{
+  display: flex;
+}
+.three-column, .two-column {
+  flex: 1;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
