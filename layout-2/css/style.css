@@ -46,7 +46,7 @@ header {
   outline: solid black .5px;
 }
 
-#triplethreat, #skinny {
+.split, #skinny, footer {
   height: 80px;
   outline: solid black .5px;
 
